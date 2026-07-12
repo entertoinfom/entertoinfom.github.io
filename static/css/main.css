@@ -6,6 +6,7 @@ html,body{
   min-height:100%;
   font-family:'Inter', sans-serif;
   color:#eef0f5;
+  background:#0a0d16;
   overscroll-behavior-y:none;
 }
 
