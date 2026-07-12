@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "static/css/main.css",
+    "main.js": "static/js/main.js",
+    "index.html": "index.html",
+    "experience.html": "experience.html",
+    "contacts.html": "contacts.html",
+    "donate.html": "donate.html"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
